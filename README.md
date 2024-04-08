@@ -1,8 +1,5 @@
 # Drive-Nexus
-Drive Nexus is revolutionizing the future of autonomous driving by collecting geospatial and driving data. Our platform enhances the driving experience through advanced analytics, paving the way for a safer and more efficient journey.
-
-## DriveNexus
-DriveNexus is a platform dedicated to revolutionizing the future of autonomous driving. By collecting geospatial and driving data, DriveNexus aims to enhance the driving experience through advanced analytics, paving the way for a safer and more efficient journey.
+DriveNexus leads the charge in autonomous driving innovation with DePIN (Decentralized Physical Infrastructure Networks) powered by Solana Saga. By collecting geospatial and driving data, we enhance navigation, safety, and efficiency, providing a seamless driving experience for all.
 
 ## Purpose
 The primary purpose of DriveNexus is to:
