@@ -1,5 +1,5 @@
 # Drive-Nexus
-DriveNexus leads the charge in autonomous driving innovation with DePIN (Decentralized Physical Infrastructure Networks) powered by Solana Saga. By collecting geospatial and driving data, we enhance navigation, safety, and efficiency, providing a seamless driving experience for all.
+DriveNexus is the leading DePIN + AI infrastructure powering the autonomous driving revolution, harnessing Solana Saga and Solana blockchain to collect geospatial and driving data.
 
 ## Purpose
 The primary purpose of DriveNexus is to:
